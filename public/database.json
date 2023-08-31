@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "production_name": "珍珠奶茶",
+    "describe": "香濃奶茶搭配QQ珍珠",
+    "prices": 50,
+    "instorage": 20
+  },
+  {
+    "id": 2,
+    "production_name": "冬瓜檸檬",
+    "describe": "清新冬瓜配上新鮮檸檬",
+    "prices": 45,
+    "instorage": 18
+  },
+  {
+    "id": 3,
+    "production_name": "翡翠檸檬",
+    "describe": "綠茶與檸檬的完美結合",
+    "prices": 55,
+    "instorage": 34
+  },
+  {
+    "id": 4,
+    "production_name": "四季春茶",
+    "describe": "香醇四季春茶，回甘無比",
+    "prices": 45,
+    "instorage": 10
+  },
+  {
+    "id": 5,
+    "production_name": "阿薩姆奶茶",
+    "describe": "阿薩姆紅茶搭配香醇鮮奶",
+    "prices": 50,
+    "instorage": 25
+  },
+  {
+    "id": 6,
+    "production_name": "檸檬冰茶",
+    "describe": "檸檬與冰茶的清新組合",
+    "prices": 45,
+    "instorage": 20
+  },
+  {
+    "id": 7,
+    "production_name": "芒果綠茶",
+    "describe": "芒果與綠茶的獨特風味",
+    "prices": 55,
+    "instorage": 18
+  },
+  {
+    "id": 8,
+    "production_name": "抹茶拿鐵",
+    "describe": "抹茶與鮮奶的絕配",
+    "prices": 60,
+    "instorage": 20
+  }
+]
